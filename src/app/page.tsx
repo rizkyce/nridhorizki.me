@@ -5,6 +5,7 @@ export default function Home() {
         <h1 className="text-3xl font-bold bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
           Welcome to nrrizki.me
         </h1>
+        <p>Here is some content</p>
       </div>
     </main>
   );
